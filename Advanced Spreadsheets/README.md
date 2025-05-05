@@ -1,7 +1,5 @@
 # Advanced Spreadsheets
 
----
-
 ## Overview
 
 <p> The following analysis was made to determine which property types (location, size, neighborhood, etc.) make for the highest return on investment, and estimate the revenue that could be earned from these investments </p>
