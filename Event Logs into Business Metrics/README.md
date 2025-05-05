@@ -1,3 +1,5 @@
+# Event Logs into Business Metrics
+
 ## Overview
 <p> This project was an exploration of conversion funnels and user metrics. Using Google Sheets, I created visuals to track turnover from each stage of the purchasing process. I also analyzed monthly cohorts, to determine whether users were returning to the site after an initial purchase.</p>
 
