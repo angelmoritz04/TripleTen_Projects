@@ -1,3 +1,5 @@
+# Data Visualizations for Superstore
+
 ## Overview
 <p>A grocery chain "Superstore" is in need of some serious recon. In this project, I created advanced visualizations with Tableau to determine profits and losses within subcategories, pinpointed the 3 best months of the year in which to do advertising, and tracked products with an abnormally high rate of return.</p>
 
